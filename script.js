@@ -37,21 +37,21 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Desarrollador web", "Estudiante en ISC"],
+        strings: ["Ingeniero en sistemas ISC", "Desarrollador web", "Desarrollador movil"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Desarrollador web", "Estudiante en ISC"],
+        strings: ["Ingeniero en sistemas ISC", "Desarrollador web", "Desarrollador movil"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-3", {
-        strings: ["Java", "Python", "Java Script", "PHP", "MySQL", "HTML", "CSS"],
+        strings: ["Java", "Python", "Java Script", "Dart", "PHP", "SQL"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
